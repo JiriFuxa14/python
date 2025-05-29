@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 def ping_cj():
     while True:
         user_input = input("Should he stream the rest of the season? ").strip().lower()
